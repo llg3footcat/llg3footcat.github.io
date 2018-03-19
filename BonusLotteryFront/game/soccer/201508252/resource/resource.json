@@ -1,0 +1,83 @@
+{"groups": [
+    {
+        "name": "preload",
+        "keys": "xiaotiao1,soccerShadow,btnRechoose1,btnRechoose2"
+    },
+    {
+        "name":"shouye",
+        "keys":"dbArmature_swf_json,dbArmature_json,role_choose_bg,lineKuang,blackBg,whiteBg,zhuanqujifen-1,zhuanqujifen-2,chongxindenglu-2,chongxindenglu-1,zhuanqujifen-2-2,zhuanqujifen-2-1,shouye,gameOver,shap-moshi-3,chongshi-1,chongshi-2"
+    },
+    {
+        "name":"secondGroup",
+        "keys":"res_v1,txt_01,btn_share02,btn_share01,txt_02,icon_01,icon_02,icon_03,icon_04,gameOver,btnShoot1,btnShoot2,btnRechoose1,btnRechoose2,shap-tiaofu-1,fanye1,fanye2,leida,greenNumber,marqueeAd,dbArmature_1,dbArmature_2,dbArmature_3,role,second,dangban,caodi1,caodi2,qiuyuan003_json,qiuyuan005_json,qiuyuan006_json,qiuyuan002_json,qiuyuan004_json,qiuyuan001_swf_json,qiuyuan001_json,qiumen_swf_json,qiumen_json"
+    },
+    {
+        "name":"thirdGroup",
+        "keys":"soccerShadow"
+    }
+], "resources": [
+
+    {"name":"shap-moshi-3","type":"image","url":"assets/shouye/shap-moshi-3.jpg"},
+    {"name":"shouye","type":"sheet","url":"assets/shouye/shouye.json"},
+    {"name":"zhuanqujifen-1","type":"image","url":"assets/shouye/zhuanqujifen-1.png"},
+    {"name":"zhuanqujifen-2","type":"image","url":"assets/shouye/zhuanqujifen-2.png"},
+    {"name":"zhuanqujifen-2-1","type":"image","url":"assets/shouye/zhuanqujifen-2-1.png"},
+    {"name":"zhuanqujifen-2-2","type":"image","url":"assets/shouye/zhuanqujifen-2-2.png"},
+    {"name":"chongxindenglu-1","type":"image","url":"assets/shouye/chongxindenglu-1.png"},
+    {"name":"chongxindenglu-2","type":"image","url":"assets/shouye/chongxindenglu-2.png"},
+    {"name":"role_choose_bg","type":"image","url":"assets/shouye/role_choose_bg.jpg"},
+    {"name":"blackBg","type":"image","url":"assets/shouye/blackBg.png"},
+    {"name":"whiteBg","type":"image","url":"assets/shouye/whiteBg.png"},
+    {"name":"lineKuang","type":"image","url":"assets/shouye/lineKuang.png"},
+    {"name":"chongshi-1","type":"image","url":"assets/shouye/chongshi-1.png"},
+    {"name":"chongshi-2","type":"image","url":"assets/shouye/chongshi-2.png"},
+
+    {"name":"dangban","type":"image","url":"assets/battle/dangban.jpg"},
+    {"name":"caodi1","type":"image","url":"assets/battle/caodi-1.png"},
+    {"name":"caodi2","type":"image","url":"assets/battle/caodi-2.jpg"},
+    {"name":"xiaotiao1","type":"image","url":"assets/battle/shap-renyiqiu-xiantiao-1.png"},
+    {"name":"soccerShadow","type":"image","url":"assets/battle/shadow.png"},
+    {"name":"shap-tiaofu-1","type":"image","url":"assets/battle/shap-tiaofu-2.png"},
+    {"name":"btnRechoose1","type":"image","url":"assets/battle/button-chongxinxuanze-1.png"},
+    {"name":"btnRechoose2","type":"image","url":"assets/battle/button-chongxinxuanze-2.png"},
+    {"name":"btnShoot1","type":"image","url":"assets/battle/button-shemen-1.png"},
+    {"name":"btnShoot2","type":"image","url":"assets/battle/button-shemen-2.png"},
+    {"name":"marqueeAd","type":"image","url":"assets/chooseLayer/marqueeAd.jpg"},
+
+    {"name":"gameOver","type":"sheet","url":"assets/gameover/gameover.json"},
+    {"name":"leida","type":"sheet","url":"assets/leida/leida.json"},
+
+    {"name":"qiumen_swf_json","type":"json","url":"assets/qiumen/qiumen_swf.json"},
+    {"name":"qiumen_json","type":"sheet","url":"assets/qiumen/qiumen.json"},
+    {"name":"qiuyuan001_swf_json","type":"json","url":"assets/qiuyuan001/qiuyuan001_swf.json"},
+    {"name":"qiuyuan001_json","type":"sheet","url":"assets/qiuyuan001/qiuyuan001.json"},
+    {"name":"role","type":"sheet","url":"assets/role/role.json"},
+	
+	{"name":"res_v1","type":"sheet","url":"assets/res_v1/res_v1.json"},
+
+    {"name":"greenNumber","type":"sheet","url":"assets/number/greenNumber.json"},
+    {"name":"second","type":"sheet","url":"assets/second/second.json"},
+    {"name":"fanye1","type":"image","url":"assets/gameover/button-fanye-1.png"},
+    {"name":"fanye2","type":"image","url":"assets/gameover/button-fanye-2.png"},
+
+    {"name":"dbArmature_json","type":"starlingswf_sheet","url":"assets/dbArmature/dbArmature.json"},
+    {"name":"dbArmature_swf_json","type":"json","url":"assets/dbArmature/dbArmature_swf.json"},
+
+    {"name":"qiuyuan002_json","type":"starlingswf_sheet","url":"assets/qiuyuan002/qiuyuan002.json"},
+    {"name":"qiuyuan003_json","type":"starlingswf_sheet","url":"assets/qiuyuan003/qiuyuan003.json"},
+    {"name":"qiuyuan005_json","type":"starlingswf_sheet","url":"assets/qiuyuan005/qiuyuan005.json"},
+    {"name":"qiuyuan006_json","type":"starlingswf_sheet","url":"assets/qiuyuan006/qiuyuan006.json"},
+    {"name":"qiuyuan004_json","type":"starlingswf_sheet","url":"assets/qiuyuan004/qiuyuan004.json"},
+
+    {"name":"icon_01","type":"image","url":"assets/second/icon_01.png"},
+    {"name":"icon_02","type":"image","url":"assets/second/icon_02.png"},
+    {"name":"icon_03","type":"image","url":"assets/second/icon_03.png"},
+    {"name":"txt_02","type":"image","url":"assets/second/txt_02.png"},
+    {"name":"txt_01","type":"image","url":"assets/second/txt_01.png"},
+    {"name":"btn_share02","type":"image","url":"assets/second/btn_share02.png"},
+    {"name":"btn_share01","type":"image","url":"assets/second/btn_share01.png"},
+    {"name":"btn_close01","type":"image","url":"assets/second/btn_close01.png"},
+    {"name":"btn_close02","type":"image","url":"assets/second/btn_close02.png"},
+    {"name":"icon_04","type":"image","url":"assets/second/icon_04.png"}
+
+]}
