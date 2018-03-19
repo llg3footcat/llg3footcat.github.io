@@ -1,0 +1,275 @@
+{
+	"resources": [
+		{
+			"name": "button-chongxinxuanze-1_png",
+			"type": "image",
+			"url": "resource/assets/battle/button-chongxinxuanze-1.png"
+		},
+		{
+			"name": "button-chongxinxuanze-2_png",
+			"type": "image",
+			"url": "resource/assets/battle/button-chongxinxuanze-2.png"
+		},
+		{
+			"name": "button-shemen-1_png",
+			"type": "image",
+			"url": "resource/assets/battle/button-shemen-1.png"
+		},
+		{
+			"name": "button-shemen-2_png",
+			"type": "image",
+			"url": "resource/assets/battle/button-shemen-2.png"
+		},
+		{
+			"name": "caodi-1_png",
+			"type": "image",
+			"url": "resource/assets/battle/caodi-1.png"
+		},
+		{
+			"name": "caodi-2_jpg",
+			"type": "image",
+			"url": "resource/assets/battle/caodi-2.jpg"
+		},
+		{
+			"name": "dangban_jpg",
+			"type": "image",
+			"url": "resource/assets/battle/dangban.jpg"
+		},
+		{
+			"name": "shadow_png",
+			"type": "image",
+			"url": "resource/assets/battle/shadow.png"
+		},
+		{
+			"name": "shap-renyiqiu-xiantiao-1_png",
+			"type": "image",
+			"url": "resource/assets/battle/shap-renyiqiu-xiantiao-1.png"
+		},
+		{
+			"name": "shap-tiaofu-2_png",
+			"type": "image",
+			"url": "resource/assets/battle/shap-tiaofu-2.png"
+		},
+		{
+			"name": "marqueeAd_jpg",
+			"type": "image",
+			"url": "resource/assets/chooseLayer/marqueeAd.jpg"
+		},
+		{
+			"name": "button-fanye-1_png",
+			"type": "image",
+			"url": "resource/assets/gameover/button-fanye-1.png"
+		},
+		{
+			"name": "button-fanye-2_png",
+			"type": "image",
+			"url": "resource/assets/gameover/button-fanye-2.png"
+		},
+		{
+			"name": "gameover_json",
+			"type": "json",
+			"url": "resource/assets/gameover/gameover.json"
+		},
+		{
+			"name": "qiuyuan002_json",
+			"type": "json",
+			"url": "resource/assets/qiuyuan002/qiuyuan002.json"
+		},
+		{
+			"name": "qiuyuan003_json",
+			"type": "json",
+			"url": "resource/assets/qiuyuan003/qiuyuan003.json"
+		},
+		{
+			"name": "qiuyuan004_json",
+			"type": "json",
+			"url": "resource/assets/qiuyuan004/qiuyuan004.json"
+		},
+		{
+			"name": "qiuyuan005_json",
+			"type": "json",
+			"url": "resource/assets/qiuyuan005/qiuyuan005.json"
+		},
+		{
+			"name": "role_json",
+			"type": "json",
+			"url": "resource/assets/role/role.json"
+		},
+		{
+			"name": "btn_share01_png",
+			"type": "image",
+			"url": "resource/assets/second/btn_share01.png"
+		},
+		{
+			"name": "btn_share02_png",
+			"type": "image",
+			"url": "resource/assets/second/btn_share02.png"
+		},
+		{
+			"name": "icon_02_png",
+			"type": "image",
+			"url": "resource/assets/second/icon_02.png"
+		},
+		{
+			"name": "icon_03_png",
+			"type": "image",
+			"url": "resource/assets/second/icon_03.png"
+		},
+		{
+			"name": "icon_04_png",
+			"type": "image",
+			"url": "resource/assets/second/icon_04.png"
+		},
+		{
+			"name": "second_json",
+			"type": "json",
+			"url": "resource/assets/second/second.json"
+		},
+		{
+			"name": "txt_01_png",
+			"type": "image",
+			"url": "resource/assets/second/txt_01.png"
+		},
+		{
+			"name": "txt_02_png",
+			"type": "image",
+			"url": "resource/assets/second/txt_02.png"
+		},
+		{
+			"name": "blackBg_png",
+			"type": "image",
+			"url": "resource/assets/shouye/blackBg.png"
+		},
+		{
+			"name": "chongshi-1_png",
+			"type": "image",
+			"url": "resource/assets/shouye/chongshi-1.png"
+		},
+		{
+			"name": "chongshi-2_png",
+			"type": "image",
+			"url": "resource/assets/shouye/chongshi-2.png"
+		},
+		{
+			"name": "chongxindenglu-1_png",
+			"type": "image",
+			"url": "resource/assets/shouye/chongxindenglu-1.png"
+		},
+		{
+			"name": "chongxindenglu-2_png",
+			"type": "image",
+			"url": "resource/assets/shouye/chongxindenglu-2.png"
+		},
+		{
+			"name": "lineKuang_png",
+			"type": "image",
+			"url": "resource/assets/shouye/lineKuang.png"
+		},
+		{
+			"name": "role_choose_bg_jpg",
+			"type": "image",
+			"url": "resource/assets/shouye/role_choose_bg.jpg"
+		},
+		{
+			"name": "shap-moshi-3_jpg",
+			"type": "image",
+			"url": "resource/assets/shouye/shap-moshi-3.jpg"
+		},
+		{
+			"name": "shouye_json",
+			"type": "json",
+			"url": "resource/assets/shouye/shouye.json"
+		},
+		{
+			"name": "whiteBg_png",
+			"type": "image",
+			"url": "resource/assets/shouye/whiteBg.png"
+		},
+		{
+			"name": "zhuanqujifen-1_png",
+			"type": "image",
+			"url": "resource/assets/shouye/zhuanqujifen-1.png"
+		},
+		{
+			"name": "zhuanqujifen-2-1_png",
+			"type": "image",
+			"url": "resource/assets/shouye/zhuanqujifen-2-1.png"
+		},
+		{
+			"name": "zhuanqujifen-2-2_png",
+			"type": "image",
+			"url": "resource/assets/shouye/zhuanqujifen-2-2.png"
+		},
+		{
+			"name": "zhuanqujifen-2_png",
+			"type": "image",
+			"url": "resource/assets/shouye/zhuanqujifen-2.png"
+		},
+		{
+			"name": "resource_json",
+			"type": "json",
+			"url": "resource/resource.json"
+		},
+		{
+			"name": "dbArmature_json",
+			"type": "json",
+			"url": "resource/assets/dbArmature/dbArmature.json"
+		},
+		{
+			"name": "dbArmature_swf_json",
+			"type": "json",
+			"url": "resource/assets/dbArmature/dbArmature_swf.json"
+		},
+		{
+			"name": "leida_json",
+			"type": "json",
+			"url": "resource/assets/leida/leida.json"
+		},
+		{
+			"name": "greenNumber_json",
+			"type": "json",
+			"url": "resource/assets/number/greenNumber.json"
+		},
+		{
+			"name": "qiumen_json",
+			"type": "json",
+			"url": "resource/assets/qiumen/qiumen.json"
+		},
+		{
+			"name": "qiumen_swf_json",
+			"type": "json",
+			"url": "resource/assets/qiumen/qiumen_swf.json"
+		},
+		{
+			"name": "qiuyuan001_json",
+			"type": "json",
+			"url": "resource/assets/qiuyuan001/qiuyuan001.json"
+		},
+		{
+			"name": "qiuyuan001_swf_json",
+			"type": "json",
+			"url": "resource/assets/qiuyuan001/qiuyuan001_swf.json"
+		},
+		{
+			"name": "qiuyuan006_json",
+			"type": "json",
+			"url": "resource/assets/qiuyuan006/qiuyuan006.json"
+		},
+		{
+			"name": "res_v1_json",
+			"type": "json",
+			"url": "resource/assets/res_v1/res_v1.json"
+		},
+		{
+			"name": "icon_01_png",
+			"type": "image",
+			"url": "resource/assets/second/icon_01.png"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "button-chongxinxuanze-1_png,button-chongxinxuanze-2_png,button-shemen-1_png,button-shemen-2_png,caodi-1_png,caodi-2_jpg,dangban_jpg,shadow_png,shap-renyiqiu-xiantiao-1_png,shap-tiaofu-2_png,marqueeAd_jpg,button-fanye-1_png,button-fanye-2_png,gameover_json,qiuyuan002_json,qiuyuan003_json,qiuyuan004_json,qiuyuan005_json,role_json,btn_share01_png,btn_share02_png,icon_02_png,icon_03_png,icon_04_png,second_json,txt_01_png,txt_02_png,blackBg_png,chongshi-1_png,chongshi-2_png,chongxindenglu-1_png,chongxindenglu-2_png,lineKuang_png,role_choose_bg_jpg,shap-moshi-3_jpg,shouye_json,whiteBg_png,zhuanqujifen-1_png,zhuanqujifen-2-1_png,zhuanqujifen-2-2_png,zhuanqujifen-2_png,resource_json,dbArmature_json,dbArmature_swf_json,leida_json,greenNumber_json,qiumen_json,qiumen_swf_json,qiuyuan001_json,qiuyuan001_swf_json,qiuyuan006_json,res_v1_json,icon_01_png"
+		}
+	]
+}
